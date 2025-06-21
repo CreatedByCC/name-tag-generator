@@ -1,6 +1,6 @@
 # 🏷️ Name Tag Generator
 
-A simple and stylish web app that lets users create personalized name tags with just a few clicks—built with vanilla HTML, CSS, and JavaScript.
+A simple and stylish React web app that lets users create personalized name tags with just a few clicks—built with vanilla HTML, CSS, and JavaScript.
 
 ## ✨ Features
 - **Live name input** with instant tag generation
